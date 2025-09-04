@@ -2,6 +2,7 @@
     "files.associations": {
         "iostream": "cpp",
         "stdio.h": "c",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "vector": "cpp"
     }
 }
