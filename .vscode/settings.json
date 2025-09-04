@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "tuple": "cpp"
     }
 }
