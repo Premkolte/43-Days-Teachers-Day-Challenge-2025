@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "stdio.h": "c",
         "tuple": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "map": "cpp"
     }
 }
