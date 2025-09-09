@@ -1,213 +1,167 @@
-# 🎓 43-Day Teacher's Day Challenge 2025
 
-> *"A tribute to every teacher, mentor, and guide who shaped my learning journey"*
+# 🎉 43-Day Teacher's Day Challenge 2025 — Completed!
 
-[![Challenge Status](https://img.shields.io/badge/Days%20Completed-7%2F43-green?style=for-the-badge)](https://github.com/Premkolte/43-Days-Teachers-Day-Challenge-2025)
+<p align="center">
+	<img src="badge-vit-bhopal.png" alt="Teacher's Day Challenge 2025 Badge" width="250"/>
+</p>
+
+
+> *A tribute to every teacher, mentor, and guide who shaped my learning journey*
+
+[![Challenge Status](https://img.shields.io/badge/Days%20Completed-43%2F43-brightgreen?style=for-the-badge)](https://github.com/Premkolte/43-Days-Teachers-Day-Challenge-2025)
 [![Start Date](https://img.shields.io/badge/Start%20Date-July%2025,%202025-blue?style=for-the-badge)](#)
 [![End Date](https://img.shields.io/badge/End%20Date-September%205,%202025-red?style=for-the-badge)](#)
 
-## 📖 About The Challenge
+---
 
-Starting July 25th, 2025, I've committed to solving **one or more Data Structures and Algorithms (DSA) problems every day** for **43 consecutive days** until **Teacher's Day (September 5th, 2025)**. 
+## � Challenge Completed!
 
-This challenge is more than just coding practice – it's a heartfelt **thank you to every teacher** who helped me think better, solve smarter, and stay consistent in my learning journey. 🙏
+🎉 **𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝘁𝗵𝗲 𝟰𝟯-𝗗𝗮𝘆 𝗧𝗲𝗮𝗰𝗵𝗲𝗿’𝘀 𝗗𝗮𝘆 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗼𝗻 𝗖𝗼𝗱𝗲𝗙𝗼𝗿𝗰𝗲𝘀!**
 
-## 🎯 Challenge Goals
+Over the past 43 days, I committed to solving at least one algorithmic challenge daily as part of the Teacher’s Day Challenge 2025 at VIT Bhopal. This journey was my way of honouring the spirit of continuous learning that our teachers inspire in us. �
 
-- 🖊️ **Handwritten Solutions**: Share detailed handwritten problem-solving approaches
-- 💻 **Daily Coding**: Solve problems from core DSA topics consistently
-- 📈 **Track Progress**: Document 43 days of consistent problem-solving
-- 🌟 **Honor Teachers**: Dedicate this journey to all educators and mentors
+**In total, I solved 100+ problems**, covering concepts across **Greedy, DP, Binary Search, Number Theory, Combinatorics, Simulation, and Implementation**. Each day was a step towards sharper logic and disciplined consistency. 💡
 
-## 📊 Progress Tracker
+🏅 I’m grateful to have received the **Teacher’s Day Challenge 2025 Badge 🦁** — a symbol of persistence and growth.
 
-| Week | Days | Problems Solved | Topics Covered | Status |
-|------|------|----------------|----------------|---------|
-| Week 1 | Day 1-7 | 21+ | Arrays, Linked Lists, Strings, Trees | ✅ Completed |
-| Week 2 | Day 8-14 | - | Codeforces Problems | 🔄 In Progress |
-| Week 3 | Day 15-21 | - | - | ⏳ Upcoming |
-| Week 4 | Day 22-28 | - | - | ⏳ Upcoming |
-| Week 5 | Day 29-35 | - | - | ⏳ Upcoming |
-| Week 6 | Day 36-42 | - | - | ⏳ Upcoming |
-| Week 7 | Day 43 | - | - | ⏳ Upcoming |
-
-**Total Problems Solved: 21/129+** (Target: 3+ problems per day)
-
-## 📅 Daily Log
-
-### 📚 Day 1 (July 25, 2025)
-**Problems Solved:**
-1. **Two Sum** - Arrays | Easy | LeetCode
-2. **Remove Linked List Elements** - Linked List | Easy | LeetCode  
-3. **Find Numbers with Even Number of Digits** - Arrays | Easy | LeetCode
-
-**Files:** [`DAY 1/`](./DAY%201/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 2 (July 26, 2025)
-**Problems Solved:**
-1. **Valid Parentheses** - Stack | Easy | LeetCode
-2. **Merge Two Sorted Lists** - Linked List | Easy | LeetCode
-3. **Maximum Subarray** - Arrays | Easy | LeetCode
-
-**Files:** [`DAY 2/`](./DAY%202/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 3 (July 27, 2025)
-**Problems Solved:**
-1. **Best Time to Buy and Sell Stock** - Arrays | Easy | LeetCode
-2. **Single Number** - Hash Table | Easy | LeetCode
-3. **Climbing Stairs** - Dynamic Programming | Easy | LeetCode
-
-**Files:** [`DAY 3/`](./DAY%203/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 4 (July 28, 2025)
-**Problems Solved:**
-1. **Binary Tree Inorder Traversal** - Tree | Easy | LeetCode
-2. **Symmetric Tree** - Tree | Easy | LeetCode
-3. **Maximum Depth of Binary Tree** - Tree | Easy | LeetCode
-
-**Files:** [`DAY 4/`](./DAY%204/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 5 (July 29, 2025)
-**Problems Solved:**
-1. **Convert Sorted Array to Binary Search Tree** - Tree | Easy | LeetCode
-2. **Pascal's Triangle** - Array | Easy | LeetCode
-3. **Valid Palindrome** - String | Easy | LeetCode
-
-**Files:** [`DAY 5/`](./DAY%205/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 6 (July 30, 2025)
-**Problems Solved:**
-1. **Min Stack** - Stack | Easy | LeetCode
-2. **Intersection of Two Linked Lists** - Linked List | Easy | LeetCode
-3. **Excel Sheet Column Number** - Math | Easy | LeetCode
-
-**Files:** [`DAY 6/`](./DAY%206/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
-
-### 📚 Day 7 (July 31, 2025)
-**Problems Solved:**
-1. **Majority Element** - Array | Easy | LeetCode
-2. **Reverse Linked List** - Linked List | Easy | LeetCode
-3. **Contains Duplicate** - Hash Table | Easy | LeetCode
-
-**Files:** [`DAY 7/`](./DAY%207/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ LeetCode Screenshots: `LC1.png`, `LC2.png`, `LC3.png`
+Thank you to every teacher, mentor, and friend who inspired this journey! 🚀
 
 ---
 
-## 🎯 Week 2 Focus: Codeforces Journey Begins! 
 
-Starting **Day 8 (August 1, 2025)**, I'm expanding the challenge to include **Codeforces** problems! This will help me:
-- 🏆 Practice competitive programming
-- ⚡ Improve problem-solving speed
-- 🧠 Tackle algorithmic challenges
-- 📈 Build rating on Codeforces platform
+## � About The Challenge
 
-### 📚 Day 8 (August 1, 2025) - 🆕 Codeforces Debut
-**Problems Solved:**
-1. **Problem A** - Topic | Rating | Codeforces
-2. **Problem B** - Topic | Rating | Codeforces
-3. **Problem C** - Topic | Rating | Codeforces
+From July 25th to September 5th, 2025, I took on the 43-Day Teacher’s Day Challenge: solving at least one DSA or competitive programming problem every day, sharing handwritten solutions, and tracking my progress. This was my way to say thank you to all educators who made a difference in my life. 🙏
 
-**Files:** [`DAY 8/`](./DAY%208/)
-- 📝 Handwritten Notes: `Notes1.jpg`, `Notes2.jpg`, `Notes3.jpg`
-- 🖼️ Problem Screenshots: `CF1.png`, `CF2.png`, `CF3.png`
 
-*More days will be added as the challenge progresses...*
+## 🎯 Challenge Goals
+
+- �️ **Handwritten Solutions**: Detailed handwritten problem-solving approaches
+- 💻 **Daily Coding**: Consistent problem-solving from core DSA and Codeforces topics
+- � **Track Progress**: Documented 43 days of learning and growth
+- 🌟 **Honor Teachers**: Dedicated to all educators and mentors
+
+
+## � Progress & Statistics
+
+- **Days Completed:** 43/43
+- **Problems Solved:** 100+ (across LeetCode & Codeforces)
+- **Topics Covered:** Arrays, Linked Lists, Strings, Trees, Hash Tables, Dynamic Programming, Greedy, Graphs, Number Theory, Combinatorics, Simulation, Implementation, and more
+- **Platforms:** LeetCode (Week 1), Codeforces (Week 2+)
+- **Badge Earned:** Teacher’s Day Challenge 2025 🦁
+
+
+## 🏁 Daily Log & Highlights
+
+See each `DAY X/` folder for daily handwritten notes and screenshots. Each day features:
+- 📝 Handwritten notes (Notes1.jpg, Notes2.jpg, ...)
+- 🖼️ Screenshots of accepted solutions (LC1.png, CF1.png, ...)
+
+Problems spanned LeetCode (Week 1) and Codeforces (Week 2+), with a focus on consistency and learning.
+
 
 ## 🗂️ Repository Structure
 
 ```
 43-Days-Teachers-Day-Challenge-2025/
-├── README.md                          # This file
-├── DAY 1/                            # Day 1 solutions (LeetCode)
-│   ├── LC1.png                       # LeetCode problem 1 screenshot
-│   ├── LC2.png                       # LeetCode problem 2 screenshot
-│   ├── LC3.png                       # LeetCode problem 3 screenshot
-│   ├── Notes1.jpg                    # Handwritten solution 1
-│   ├── Notes2.jpg                    # Handwritten solution 2
-│   └── Notes3.jpg                    # Handwritten solution 3
-├── DAY 2-7/                          # Days 2-7 solutions (LeetCode)
-│   └── ... (similar structure)
-├── DAY 8+/                           # Day 8+ solutions (Codeforces)
-│   ├── CF1.png                       # Codeforces problem 1 screenshot
-│   ├── CF2.png                       # Codeforces problem 2 screenshot
-│   ├── CF3.png                       # Codeforces problem 3 screenshot
-│   ├── Notes1.jpg                    # Handwritten solution 1
-│   ├── Notes2.jpg                    # Handwritten solution 2
-│   └── Notes3.jpg                    # Handwritten solution 3
-└── DAY 43/                           # Final day solutions
-    └── ... (similar structure)
+├── README.md
+├── .cph/                  # Codeforces problem files (auto-generated)
+├── .vscode/               # VSCode settings
+├── a_template/            # Template for daily submissions
+├── DAY 1/                 # Day 1 solutions (LeetCode)
+├── DAY 2/                 # Day 2 solutions
+├── DAY 3/
+├── DAY 4/
+├── DAY 5/
+├── DAY 6/
+├── DAY 7/
+├── DAY 8/
+├── DAY 9/
+├── DAY 10/
+├── DAY 11/
+├── DAY 12/
+├── DAY 13/
+├── DAY 14/
+├── DAY 15/
+├── DAY 16/
+├── DAY 17/
+├── DAY 18/
+├── DAY 19/
+├── DAY 20/
+├── DAY 21/
+├── DAY 22/
+├── DAY 23/
+├── DAY 24/
+├── DAY 25/
+├── DAY 26/
+├── DAY 27/
+├── DAY 28/
+├── DAY 29/
+├── DAY 30/
+├── DAY 31/
+├── DAY 32/
+├── DAY 33/
+├── DAY 34/
+├── DAY 35/
+├── DAY 36/
+├── DAY 37/
+├── DAY 38/
+├── DAY 39/
+├── DAY 40/
+├── DAY 41/
+├── DAY 42/
+├── DAY 43/                # Final day solutions
 ```
 
-## 🎯 Topics to Cover
 
-### Week 1 (Completed) - LeetCode Fundamentals ✅
-- [x] **Arrays & Strings**
-- [x] **Linked Lists**
-- [x] **Stacks & Queues**
-- [x] **Trees & Binary Search Trees**
-- [x] **Hash Tables**
-- [x] **Dynamic Programming (Basic)**
+## � Topics Covered
 
-### Week 2+ - Codeforces & Advanced Topics 🔄
-- [ ] **Competitive Programming Fundamentals**
-- [ ] **Greedy Algorithms**
-- [ ] **Graph Algorithms**
-- [ ] **Number Theory**
-- [ ] **Combinatorics**
-- [ ] **Advanced Dynamic Programming**
-- [ ] **Binary Search**
-- [ ] **Two Pointers**
-- [ ] **Sliding Window**
-- [ ] **Segment Trees**
-- [ ] **Disjoint Set Union**
-- [ ] **String Algorithms**
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Search Trees
+- Hash Tables
+- Dynamic Programming
+- Greedy Algorithms
+- Graph Algorithms
+- Number Theory
+- Combinatorics
+- Binary Search
+- Two Pointers
+- Sliding Window
+- Segment Trees
+- Disjoint Set Union
+- String Algorithms
+- Simulation & Implementation
+
 
 ## 🌟 Why This Challenge?
 
-This challenge is dedicated to:
+This challenge is dedicated to **every teacher, mentor, and guide** who helped shape my learning journey. From school teachers to online instructors, from senior developers to documentation writers — thank you for inspiring curiosity, discipline, and growth.
 
-> **Every teacher, mentor, and guide who helped shape my learning journey**
 
-From school teachers who taught fundamentals to online instructors who made complex concepts simple, from senior developers who shared their wisdom to documentation writers who made learning accessible – this challenge is a tribute to **all educators**.
+## � Final Statistics
 
-## 📊 Statistics
+- 📅 **Challenge Duration:** 43 Days
+- 🎯 **Problems Solved:** 100+
+- 📝 **Documentation:** Handwritten notes + Screenshots
+- 🏆 **Badge:** Teacher’s Day Challenge 2025 🦁
+- 📚 **Platforms Used:** LeetCode (Week 1), Codeforces (Week 2+)
 
-- 📅 **Challenge Duration**: 43 Days
-- 🎯 **Target Problems**: 129+ (3 per day minimum)
-- 📝 **Documentation**: Handwritten notes + Screenshots
-- 🏆 **Completion Rate**: 16.3% (7/43 days)
-- 🔥 **Current Streak**: 7 days
-- 📚 **Platforms Used**: LeetCode (Week 1), Codeforces (Week 2+)
-
-### Platform Breakdown:
-- **LeetCode**: 21 problems solved (Week 1)
-- **Codeforces**: Starting from Day 8 🆕
 
 ## 🔗 Connect & Follow
 
-- 📱 **LinkedIn**: [Daily Updates](https://linkedin.com/in/premkolte)
-- 🐙 **GitHub**: [Repository](https://github.com/Premkolte/43-Days-Teachers-Day-Challenge-2025)
-- 💼 **Portfolio**: [premkolte.dev](https://premkolte.dev)
+- 📱 **LinkedIn:** [Daily Updates](https://linkedin.com/in/premkolte)
+- 🐙 **GitHub:** [Repository](https://github.com/Premkolte/43-Days-Teachers-Day-Challenge-2025)
+- 💼 **Portfolio:** [premkolte.dev](https://premkolte.dev)
+
 
 ## 🏷️ Hashtags
 
 `#TeachersDay2025` `#DSAChallenge` `#CodingChallenge` `#43DaysChallenge` 
 `#ProblemSolving` `#LeetCode` `#Codeforces` `#CompetitiveProgramming` 
-`#Consistency` `#CodeEveryday` `#LinkedInDaily`
+`#Consistency` `#CodeEveryday` `#Persistence` `#Growth`
+
 
 ## 🙏 Acknowledgments
 
@@ -215,20 +169,16 @@ From school teachers who taught fundamentals to online instructors who made comp
 - All teachers who made learning enjoyable
 - Mentors who guided my coding journey
 - The coding community for continuous support
-- LeetCode for providing excellent practice problems
+- LeetCode for excellent practice problems
 - Codeforces for competitive programming challenges
 
----
-
-### 💪 Daily Commitment
-
-*"Every problem solved is a step forward, every day consistent is a tribute to those who taught me to never give up."*
-
-**Let's code our way to Teacher's Day! 🚀**
 
 ---
 
-⭐ **Star this repository if you find it inspiring!**
-🍴 **Fork it to start your own coding challenge!**
+### 💪 Final Words
 
-*Last Updated: August 1, 2025*
+*"Every problem solved is a step forward. Every day consistent is a tribute to those who taught me to never give up."*
+
+**Thank you for following my journey! If you found this inspiring, star ⭐ the repo or fork 🍴 it to start your own challenge!**
+
+*Last Updated: September 9, 2025*
