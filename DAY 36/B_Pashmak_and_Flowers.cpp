@@ -12,7 +12,8 @@ int main() {
 
     sort(arr.begin(), arr.end());
 
-    int a=0,b=0;
+    int a=0;
+    int b=0;
 
     for(int i=0;i<n;i++){
         if(arr[i]==arr[0]) a++;
@@ -20,7 +21,7 @@ int main() {
     }
 
     if(arr[0]==arr[n-1]){
-        cout << 0 << " " << 1LL * n * (n - 1) / 2 << endl;
+        cout << 0 <<" "<< 1LL * n*(n - 1) / 2 << endl;
     }
     else{
         cout<<(arr[n-1]-arr[0])<<" ";
